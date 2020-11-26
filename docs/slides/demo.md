@@ -1,6 +1,6 @@
 <!-- .slide: data-state="layout-title"  -->
 
-# RayVeal
+# Sapere Aude
 
 ## Opinionated Reveal.js
 
